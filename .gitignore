@@ -1,4 +1,4 @@
-﻿# 依赖与构建产物
+# 依赖与构建产物
 node_modules/
 dist/
 build/
@@ -9,6 +9,10 @@ out/
 tmp/
 .tmp/
 *.tmp
+
+# 收藏夹导出数据（含个人内容，不提交）
+bili_export/
+__pycache__/
 
 # 编辑器与系统
 .vscode/
